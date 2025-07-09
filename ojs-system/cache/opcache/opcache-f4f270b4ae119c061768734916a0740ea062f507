@@ -1,0 +1,23 @@
+<?php $exp = 1781189989; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.textEditorExtras.displayName' => 'Editor de texto Extras',
+      'plugins.generic.textEditorExtras.settings.description' => '
+		<p>Ative os controles extras que você deseja que apareçam no editor TinyMCE para cada campo listado abaixo. </p>
+		<p>Em alguns casos, adicionar imagens, tabelas ou outra formatação avançada pode causar problemas de distribuição. Isto é especialmente verdade em dois casos. A formatação avançada no corpo do modelo de email pode não ser compatível com todos os clientes de email e pode aumentar o risco de seus emails serem bloqueados. A formatação avançada em um resumo pode não ser compatível com serviços de indexação, como Google Scholar, Crossref e PKP Index.</p>
+		<p>As tabelas apresentam dois problemas adicionais. Primeiro, tabelas amplas podem causar problemas de layout em telas pequenas. Você deve testar as tabelas adicionadas ao seu site em um dispositivo móvel. Segundo, a maioria das tabelas exige títulos de linha e coluna para estar em conformidade com os requisitos de acessibilidade em muitas jurisdições. Os controles da tabela que podem ser ativados aqui não suportam a marcação HTML adequada que atende a esses requisitos. Pode ser necessário ajustar manualmente a marcação HTML de suas tabelas de acordo com as <a href="https://www.w3.org/TR/WCAG20-TECHS/H51.html"> Diretrizes da WCAG 2.0 </a>. 
+</p>
+		<p>Recomendamos que você adicione apenas opções avançadas de formatação quando necessário e teste cuidadosamente os resultados sempre que o material publicado for agregado em outros serviços.</p>',
+      'plugins.generic.textEditorExtras.setting.tables' => 'Tabelas',
+      'plugins.generic.textEditorExtras.setting.code' => 'Código',
+      'plugins.generic.textEditorExtras.setting.images' => 'imagens',
+      'plugins.generic.textEditorExtras.setting.emailTemplateBody' => 'Corpo do modelo de e-mail',
+      'plugins.generic.textEditorExtras.description' => 'Adicionar controles para o editor de texto rico. Otimiza upload de imagens, manipular o código HTML e adicionar tabelas.',
+      'plugins.generic.textEditorExtras.setting.announcements.descriptionShort' => 'Notícias Breve Descrição',
+    ),
+  ),
+);

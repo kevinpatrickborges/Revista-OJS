@@ -1,0 +1,33 @@
+<?php $exp = 1776340399; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.themes.pragma.name' => 'Tema Pragma',
+      'plugins.themes.pragma.description' => 'Um tema minimalista do OJS, inspirado nos índices dos primeiros periódicos, com um uso ousado de uma paleta de cores monocromática.',
+      'plugins.themes.pragma.more-info' => 'Mais informações',
+      'plugins.themes.pragma.issues.recent' => 'Edições publicadas recentemente',
+      'plugins.themes.pragma.issue.published' => 'Publicadas',
+      'plugins.themes.pragma.issue.description' => 'Descrição da edição',
+      'plugins.themes.pragma.registration.consent' => 'Consentimento',
+      'plugins.themes.pragma.mainMenu' => 'Menu principal',
+      'plugins.themes.pragma.language.toggle' => 'Alterar o idioma. O idioma atual é:',
+      'plugins.themes.pragma.adminMenu' => 'Menu de administração',
+      'plugins.themes.pragma.issue.fullIssueLink' => 'Veja a edição completa',
+      'plugins.themes.pragma.article.biography' => 'Bio',
+      'plugins.themes.pragma.article.figure' => 'Imagem de capa',
+      'plugins.themes.pragma.authors.browse' => 'Navegar por autor',
+      'plugins.themes.pragma.author.details' => 'Detalhes do autor',
+      'plugins.themes.pragma.search.resultsFor' => 'Resultados da busca por <em>{$query}</em>',
+      'plugins.themes.pragma.option.displayStats.label' => 'Opções de exibição de estatísticas de uso',
+      'plugins.themes.pragma.option.displayStats.none' => 'Não exiba o gráfico de estatísticas de uso de submissão para o leitor.',
+      'plugins.themes.pragma.option.displayStats.bar' => 'Use o tipo de gráfico de barra para exibição de estatísticas de uso.',
+      'plugins.themes.pragma.option.displayStats.line' => 'Use o tipo de gráfico de linha para exibição de estatísticas de uso.',
+      'plugins.themes.pragma.displayStats.monthInitials' => 'Jan Fev Mar Abr Mai Jun Jul Ago Set Out Nov Dez',
+      'plugins.themes.pragma.displayStats.downloads' => 'Downloads',
+      'plugins.themes.pragma.displayStats.noStats' => 'Os dados de download ainda não estão disponíveis.',
+    ),
+  ),
+);

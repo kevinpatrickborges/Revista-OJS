@@ -1,0 +1,17 @@
+<?php $exp = 1780058474; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.blocks.mostRead.displayName' => 'Bloco de artigos mais lidos',
+      'plugins.blocks.mostRead.description' => 'Este plugin mostra artigos mais lidos na barra lateral.',
+      'plugins.blocks.mostRead.blockTitle' => 'Artigos mais lidos',
+      'plugins.blocks.mostRead.settings.title' => 'Configurações Most Read Block',
+      'plugins.blocks.mostRead.settings.days' => 'Contagem de dias',
+      'plugins.blocks.mostRead.settings.blockTitle' => 'Título do bloco',
+      'plugins.blocks.mostRead.settings.saved' => 'Configurações do plug-in do bloco de artigos mais lido',
+    ),
+  ),
+);

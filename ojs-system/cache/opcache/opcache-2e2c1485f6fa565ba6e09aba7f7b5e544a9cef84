@@ -1,0 +1,27 @@
+<?php $exp = 1779540918; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.reports.reviews.displayName' => 'Relatórios de avaliação',
+      'plugins.reports.reviews.description' => 'Este plugin implementa um relatório no formato CSV (planilha eletrônica) contendo a lista de tarefas de avaliação para uma revista.',
+      'plugins.reports.reviews.round' => 'Rodada',
+      'plugins.reports.reviews.reviewerId' => 'ID do avaliador',
+      'plugins.reports.reviews.reviewer' => 'Avaliador',
+      'plugins.reports.reviews.dateAssigned' => 'Data de solicitação',
+      'plugins.reports.reviews.dateNotified' => 'Data de Notificação',
+      'plugins.reports.reviews.dateConfirmed' => 'Data de Confirmação da disponibilidade',
+      'plugins.reports.reviews.dateCompleted' => 'Conclusão',
+      'plugins.reports.reviews.dateReminded' => 'Lembrete',
+      'plugins.reports.reviews.reviewOverdue' => 'Dias de Atraso de Avaliação',
+      'plugins.reports.reviews.dateAcknowledged' => 'Data de confirmação',
+      'plugins.reports.reviews.comments' => 'Comentários sobre a submissão',
+      'plugins.reports.reviews.recommendation' => 'Recomendação',
+      'plugins.reports.reviews.responseOverdue' => 'Dias de atraso de resposta',
+      'plugins.reports.reviews.submissionId' => 'ID da submissão',
+      'plugins.reports.reviews.submissionTitle' => 'Título da Submissão',
+    ),
+  ),
+);

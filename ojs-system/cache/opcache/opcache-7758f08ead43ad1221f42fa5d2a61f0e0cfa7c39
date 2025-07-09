@@ -1,0 +1,12 @@
+<?php $exp = 1777559252; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.block.languageToggle.displayName' => 'Language Toggle Block',
+      'plugins.block.languageToggle.description' => 'This plugin provides the sidebar language toggler.',
+    ),
+  ),
+);

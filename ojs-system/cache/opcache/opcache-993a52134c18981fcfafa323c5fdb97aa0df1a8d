@@ -1,0 +1,29 @@
+<?php $exp = 1779806707; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n != 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.textEditorExtras.settings.description' => '
+		<p>Active los controles extra que quiera que aparezcan en el editor TinyMCE para cada campo de los listados a continuación.</p>
+		<p>En algunos casos, añadir imágenes, tablas u otros formatos avanzados puede causar problemas de distribución. Esto sucede especialmente
+			en dos casos. El formato avanzado en el cuerpo de la plantilla de correo electrónico puede no ser compatible con todos los clientes de correo,
+			lo que incrementa el riesgo de que sus correos electrónicos sean bloqueados. El formato avanzado en un resumen puede no ser compatible
+			con servicios de indexación, como Google Scholar, Crossref y PKP Index.</p>
+		<p>Las tablas presentan dos problemas adicionales. En primer lugar, las tablas muy anchas pueden causar problemas de diseño en pantallas pequeñas.
+			Por ello debería revisar todas las tablas que añada a su sitio en un dispositivo móvil. En segundo lugar, la mayoría de tablas requieren cabeceras de fila y columna
+			para ajustarse a los requisitos de accesibilidad de diferentes jurisdicciones. Los controles de tabla que se pueden activar aquí no son compatibles
+			con un marcado HTML apropiado para cumplir esos requisitos. Podría ser necesario ajustar manualmente el marcado HTML de las tablas
+			según las <a href="https://www.w3.org/TR/WCAG20-TECHS/H51.html">directrices WCAG 2.0</a>.</p>
+		<p>Le recomendamos que solo añada opciones de formato avanzado cuando sea necesario y que verifique cuidadosamente los resultados
+			en todos los otros servicios en que su material sea agregado.</p>',
+      'plugins.generic.textEditorExtras.setting.tables' => 'Tablas',
+      'plugins.generic.textEditorExtras.setting.code' => 'Código',
+      'plugins.generic.textEditorExtras.setting.images' => 'Imágenes',
+      'plugins.generic.textEditorExtras.setting.emailTemplateBody' => 'Cuerpo de la plantilla de correo electrónico',
+      'plugins.generic.textEditorExtras.description' => 'Añadir controles al editor de textos enriquecido para cargar imágenes, manipular el código HTML y agregar tablas.',
+      'plugins.generic.textEditorExtras.displayName' => 'Extras del editor de textos',
+    ),
+  ),
+);

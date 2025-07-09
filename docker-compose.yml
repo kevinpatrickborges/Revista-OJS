@@ -1,0 +1,26 @@
+services:
+  db:
+    image: mariadb:10.6
+    container_name: ojs_db
+    environment:
+      MYSQL_DATABASE: ojss          
+      MYSQL_USER: ojs_user
+      MYSQL_PASSWORD: ojs_pass
+      MYSQL_ROOT_PASSWORD: root_pass
+    volumes:
+      - ./db_data:/var/lib/mysql
+    restart: unless-stopped
+
+  app:
+    build: .
+    container_name: ojs_app
+    ports:
+      - "8080:80"
+    volumes:
+      - ./files:/var/www/html/files
+      - ./ojs-system/public:/var/www/html/public
+      - ./ojs-system/cache:/var/www/html/cache
+      - ./ojs-system:/var/www/html
+    depends_on:
+      - db
+    restart: unless-stopped

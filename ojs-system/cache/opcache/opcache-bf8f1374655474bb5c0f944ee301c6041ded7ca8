@@ -1,0 +1,27 @@
+<?php $exp = 1779376548; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.themes.healthSciences.name' => 'Tema Health Sciences',
+      'plugins.themes.healthSciences.description' => 'Um tema OJS construido com foco em revistas de ciências da saúde.',
+      'plugins.themes.healthSciences.option.colour.label' => 'Cor principal',
+      'plugins.themes.healthSciences.option.colour.description' => 'Selecionar a cor principal da revista.',
+      'plugins.themes.healthSciences.nav.toggle' => 'Alternar navegação',
+      'plugins.themes.healthSciences.language.toggle' => 'Mudar o idioma. O atual é:',
+      'plugins.themes.healthSciences.currentIssuePublished' => 'Publicado em {$date}',
+      'plugins.themes.healthSciences.issueDescription' => 'Sobre este número',
+      'plugins.themes.healthSciences.issuePubId' => '{$pubIdType}: {$pubId}',
+      'plugins.themes.healthSciences.article.authorBio' => 'Bio',
+      'plugins.themes.healthSciences.article.supplementaryFiles' => 'Arquivos suplementares',
+      'plugins.themes.healthSciences.register.haveAccount' => 'Já possui um registro?',
+      'plugins.themes.healthSciences.register.loginHere' => 'Entrar',
+      'plugins.themes.healthSciences.register.noAccount' => 'Não possui registro?',
+      'plugins.themes.healthSciences.register.registerHere' => 'Registrar-se aqui',
+      'plugins.themes.healthSciences.search.resultsFor' => 'Resultados da busca por <em>{$query}</em>',
+      'plugins.themes.healthSciences.search.params' => 'Parâmetros da busca',
+    ),
+  ),
+);

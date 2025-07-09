@@ -1,0 +1,12 @@
+<?php $exp = 1779376549; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.jatsTemplate.description' => 'Gere automaticamente um documento JATS mínimo a partir de metadados de submissão quando nenhum documento JATS estiver disponível.',
+      'plugins.generic.jatsTemplate.displayName' => 'Plugin do Modelo JATS',
+    ),
+  ),
+);

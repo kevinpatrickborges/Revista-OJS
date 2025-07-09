@@ -1,0 +1,36 @@
+<?php $exp = 1779806707; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n != 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.themes.classic.name' => 'Tema Classic',
+      'plugins.themes.classic.description' => 'Un tema de OJS que juega con los contrastes de colores y fuentes basado en el diseño de libros de los clásicos literarios y que presenta un encabezado negro y un pie de página de color de marca muy contrastantes.',
+      'plugins.themes.classic.option.primaryColor.label' => 'Color principal',
+      'plugins.themes.classic.option.primaryColor.description' => 'Cambiar color principal del tema',
+      'plugins.themes.classic.menu' => 'Menú',
+      'plugins.themes.classic.issueDescription' => 'Descripción del número',
+      'plugins.themes.classic.more' => 'Más',
+      'plugins.themes.classic.less' => 'Menos',
+      'plugins.themes.classic.fullIssue' => 'Publicación completa',
+      'plugins.themes.classic.tableOfContents' => 'Tabla de Contenidos',
+      'plugins.themes.classic.close' => 'Cerrar',
+      'plugins.themes.classic.biography' => 'Biografía',
+      'plugins.themes.classic.more-info' => 'más información',
+      'plugins.themes.classic.pagination' => 'Paginación',
+      'plugins.themes.classic.volume-abbr' => 'Vol.',
+      'plugins.themes.classic.number-abbr' => 'Núm.',
+      'plugins.themes.classic.options.journalSummary.enable' => 'Mostrar en la página de inicio de la revista.',
+      'plugins.themes.classic.options.journalSummary.disable' => 'No mostrar en la página de inicio de la revista.',
+      'plugins.themes.classic.option.displayStats.label' => 'Opciones de visualización de las estadísticas de uso',
+      'plugins.themes.classic.option.displayStats.bar' => 'Usar un gráfico de barras para la visualización de las estadísticas de uso.',
+      'plugins.themes.classic.option.displayStats.line' => 'Usar un gráfico de líneas para la visualización de las estadísticas de uso.',
+      'plugins.themes.classic.displayStats.downloads' => 'Descargas',
+      'plugins.themes.classic.displayStats.noStats' => 'Los datos de descarga todavía no están disponibles.',
+      'plugins.themes.classic.language.toggle' => 'Cambiar el idioma. El idioma actual es:',
+      'plugins.themes.classic.option.displayStats.none' => 'No mostrar el gráfico de estadísticas de envíos a los lectores/as.',
+      'plugins.themes.classic.displayStats.monthInitials' => 'Ene Feb Mar Abr May Jun Jul Ago Sep Oct Nov Dic',
+    ),
+  ),
+);

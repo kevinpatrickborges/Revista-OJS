@@ -1,0 +1,181 @@
+body {
+    overflow-x: hidden;
+    padding-bottom: 0 !important;
+}
+
+/* rodapé */
+#footer.footer-wrapper {
+    position: relative; 
+    color: #ffffff;
+    padding: 0px 0;    
+    background-color: #0B2F5B;                      
+    background-image: url('../images/Rodapé.jpg');  
+    background-size: cover;                         
+    background-position: center center;             
+    background-repeat: no-repeat;
+    width: 100vw;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* Container rodapé */
+.footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+    position: relative;
+}
+
+/* Bloco principal que une logos */
+.footer-content {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 30px;
+}
+/* Estilo para a linha de copyright */
+.footer-copyright {
+    text-align: right; /* Centraliza o texto */
+    margin-top: 30px;   /* Espaço entre o conteúdo principal e o copyright */
+    padding-top: 20px;
+    font-size: 12px;
+    color: #cccccc;
+    opacity: 0.9;
+}
+
+/* Div dos logos */
+.footer-logos {
+    display: flex;  
+    gap: 20px;
+    flex-shrink: 0;
+}
+
+.footer-logos img {
+    height: 60px;
+    width: auto;
+}
+
+/* Div dos detalhes em texto */
+.footer-details {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+    position: relative; 
+    top: 35px;
+}
+
+.footer-details p, .footer-details a, .footer-details span {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5); 
+}
+/* linha de contato (email e telefone) */
+.footer-line-contact {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1); 
+    font-size: 16px;
+    color: #e0e0e0;
+}
+
+/* ---COR PARA LINKS DE CONTATO --- */
+.footer-line-contact a,
+.footer-line-contact a:visited { 
+    color: #ffffff;              
+    font-weight: normal;
+    text-decoration: none;      
+    transition: color 0.2s;
+}
+
+.footer-line-contact a:hover {
+    color: #e0e0e0;              
+    text-decoration: underline; 
+}
+
+.footer-contact-separator {
+    margin: 0 10px;
+    color: rgba(255, 255, 255, 0.5);
+}
+
+/* Primeira linha (site e redes sociais) */
+.footer-line-1 {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-weight: bold;
+}
+
+.footer-line-1 a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.footer-line-1 a:hover {
+    text-decoration: underline;
+}
+
+.footer-social {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.footer-social i {
+    font-size: 16px;
+}
+/*Efeitos para Ícones Sociais no Rodapé */
+   .footer-social a i {
+    height: 34px;                             
+    width: 34px;                              
+    border-radius: 50%;                       
+    border: 1px solid rgba(255, 255, 255, 0.7); 
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    color: #ffffff;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out;
+}
+
+/* 4. Efeito ao passar o mouse por cima do link */
+.footer-social a:hover i {
+    transform: scale(1.1);              
+    background-color: #ffffff;          
+    color: #0B2F5B;                      
+    border-color: #ffffff;              
+}  
+
+/* Linhas de endereço e núcleo */
+.footer-line-2,
+.footer-line-3 {
+    margin: 0;
+    font-size: 12px;
+    color: #e0e0e0;
+}
+/* Estilos para Títulos da Sidebar */
+
+   #sidebar .pkp_block h2 {
+    font-size: 1.8em !important; 
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 15px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #eeeeee; 
+}
+
+/* Responsividade do Rodapé */
+@media (max-width: 768px) {
+    .footer-content {
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
+    }
+
+    .footer-line-1 {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    #footer.footer-wrapper {
+        background-position: right center; 
+    }
+}

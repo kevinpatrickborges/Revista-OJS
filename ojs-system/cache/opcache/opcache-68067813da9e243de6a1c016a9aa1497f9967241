@@ -1,0 +1,24 @@
+<?php $exp = 1777559251; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n != 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.customLocale.name' => 'Custom Locale Plugin',
+      'plugins.generic.customLocale.description' => 'This plugin enables customization of the default user interface text used by OJS and OMP.',
+      'plugins.generic.customLocale.saveAndContinue' => 'Save and continue',
+      'plugins.generic.customLocale.noneCreated' => 'No locales found.',
+      'plugins.generic.customLocale.customize' => 'Customize',
+      'plugins.generic.customLocale.printChanges' => 'Download changes.',
+      'plugins.generic.customLocale.file.editHeader' => 'Customize locale keys',
+      'plugins.generic.customLocale.file.edit' => 'Editing {$filename}',
+      'plugins.generic.customLocale.file.reference' => 'Default Text',
+      'plugins.generic.customLocale.file.custom' => 'Custom Text',
+      'plugins.generic.customLocale.customLocale' => 'Locales',
+      'plugins.generic.customLocale.customLocaleFiles' => 'Locale files',
+      'plugins.generic.customLocale.searchResultsCount' => 'Displaying {{ currentLocaleKeys.length }} of {{ filteredKeysList.length }} results for "{{ phraseSearched }}".',
+      'plugins.generic.customLocale.file.onlyModified' => 'Only modified',
+    ),
+  ),
+);

@@ -1,0 +1,12 @@
+<?php $exp = 1777559265; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.block.languageToggle.displayName' => 'Bloque de cambios entre lenguajes',
+      'plugins.block.languageToggle.description' => 'Este módulo permite cambiar entre lenguajes en la barra lateral.',
+    ),
+  ),
+);

@@ -1,0 +1,16 @@
+<?php $exp = 1779376549; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.reviewReminder.displayName' => 'Lembrete de Avaliação',
+      'plugins.generic.reviewReminder.description' => 'Envia e-mail com lembrete de avaliação para avaliadores designados.',
+      'plugins.generic.reviewReminder.ics.description' => 'Prazo para avaliação de {$submissionTitle}: {$submissionReviewUrl}',
+      'plugins.generic.reviewReminder.ics.description.urlNotAvailable' => 'URL não está disponível',
+      'plugins.generic.reviewReminder.ics.summary' => '{$journalName} - Agende sua avaliação',
+      'plugins.generic.reviewReminder.email.body' => 'Você pode utilizar o lembrete em anexo para adicionar no calendário de sua preferência.',
+    ),
+  ),
+);

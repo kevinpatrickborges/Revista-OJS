@@ -1,0 +1,23 @@
+<?php $exp = 1777559265; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n != 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.browseBySection.name' => 'Navegar por sección',
+      'plugins.generic.browseBySection.description' => 'Permite a los visitantes acceder al contenido de las revistas por secciones.',
+      'plugins.generic.browseBySection.navMenuItem.description' => 'Enlazar a un archivo navegable de obras publicadas en esta sección.',
+      'plugins.generic.browseBySection.navMenuItem' => 'Sección: {$name}',
+      'plugins.generic.browseBySection.browseByDescriptionLabel' => 'Descripción del archivo de sección',
+      'plugins.generic.browseBySection.browseByPerPageDescription' => 'Cuántos elementos por página deberían mostrarse en su archivo de sección.',
+      'plugins.generic.browseBySection.browseByPerPageLabel' => 'Elementos por página',
+      'plugins.generic.browseBySection.browseByPathDescription' => 'Personalice la ruta URL de su sitio web donde los lectores/as puedan navegar por este archivo de sección. Esta ruta solo debería contener letras y números. Use guiones en vez de espacios. Ejemplo: book-reviews.',
+      'plugins.generic.browseBySection.browseByPathLabel' => 'Ruta URL de sección',
+      'plugins.generic.browseBySection.enableBrowsing' => 'Habilita un archivo de todos los envíos publicados en esta sección.',
+      'plugins.generic.browseBySection.browsingLabel' => 'Navegación por sección',
+      'plugins.generic.browseBySection.emptySection' => 'Aún no se ha publicado nada en esta sección.',
+      'plugins.generic.browseBySection.orderBy' => 'Ordenar por',
+    ),
+  ),
+);

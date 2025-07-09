@@ -1,0 +1,9 @@
+<?php $exp = 1780058471; $val = array (
+  'application' => 'mostRead',
+  'class' => 'MostReadBlockPlugin',
+  'type' => 'plugins.blocks',
+  'release' => '3.4.0.1',
+  'date' => '2024-07-26',
+  'lazy-load' => 1,
+  'sitewide' => 0,
+);

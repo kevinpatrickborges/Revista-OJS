@@ -1,0 +1,36 @@
+<?php $exp = 1779376547; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n != 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.themes.material.name' => 'Material Tema',
+      'plugins.themes.material.description' => 'Este tema implementa o tema material.',
+      'plugins.themes.material.option.typography.label' => 'Tipografia',
+      'plugins.themes.material.option.typography.description' => 'Escolha uma combinação de fontes adequada a esta revista.',
+      'plugins.themes.material.option.typography.notoSans' => 'Noto Sans: Uma fonte nativa digital projetada pelo Google para amplo suporte a idiomas.',
+      'plugins.themes.material.option.typography.notoSerif' => 'Noto Serif: Uma variante com serifa da fonte nativa digital do Google.',
+      'plugins.themes.material.option.typography.notoSerif_notoSans' => 'Noto Serif/Noto Sans: Um par complementar com cabeçalhos serifados e corpo do texto sem serifa.',
+      'plugins.themes.material.option.typography.notoSans_notoSerif' => 'Noto Sans/Noto Serif: Um emparelhamento complementar com cabeçalhos sem serifa e corpo do texto com serifa.',
+      'plugins.themes.material.option.typography.lato' => 'Lato: Uma fonte popular sem serifa moderna.',
+      'plugins.themes.material.option.typography.lora' => 'Lora: Uma fonte com serifa ampla boa para leitura online.',
+      'plugins.themes.material.option.typography.lora_openSans' => 'Lora/Open Sans: Uma combinação complementar com cabeçalhos serifados e corpo do texto sem serifa.',
+      'plugins.themes.material.option.colour.label' => 'Cor',
+      'plugins.themes.material.option.colour.description' => 'Escolha uma cor para o cabeçalho.',
+      'plugins.themes.material.option.showDescriptionInJournalIndex.option' => 'Mostre o resumo do diário na página inicial.',
+      'plugins.themes.material.option.useHomepageImageAsHeader.label' => 'Imagem de fundo do cabeçalho',
+      'plugins.themes.material.option.useHomepageImageAsHeader.description' => 'Quando uma imagem da página inicial for carregada, exiba-a no plano de fundo do cabeçalho, em vez de sua posição normal na página inicial.',
+      'plugins.themes.material.option.useHomepageImageAsHeader.option' => 'Mostre a imagem da página inicial como plano de fundo do cabeçalho.',
+      'plugins.themes.material.makeSubmission' => 'Enviar artigo',
+      'plugins.themes.material.option.disablePrefixAndTitle.label' => 'Desativar o prefixo do título do artigo',
+      'plugins.themes.material.option.disablePrefixAndTitle.description' => 'Desative o prefixo do título do artigo.',
+      'plugins.themes.material.option.disablePrefixAndTitle.option' => 'Desative o prefixo do título do artigo.',
+      'plugins.themes.material.option.disableArticleSubtitle.label' => 'Desativar subtítulo do artigo',
+      'plugins.themes.material.option.disableArticleSubtitle.description' => 'Desative o subtítulo do artigo.',
+      'plugins.themes.material.option.disableArticleSubtitle.option' => 'Desative o subtítulo do artigo.',
+      'plugins.themes.material.option.issueArchiveColumns.label' => 'Número de colunas na página Arquivo de problemas',
+      'plugins.themes.material.option.issueArchiveColumns.description' => 'Insira o número de colunas, o valor deve ser um número positivo',
+    ),
+  ),
+);

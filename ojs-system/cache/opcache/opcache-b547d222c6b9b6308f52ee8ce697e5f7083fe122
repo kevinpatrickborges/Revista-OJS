@@ -1,0 +1,23 @@
+<?php $exp = 1778636455; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.browseBySection.navMenuItem.description' => 'Link para um acervo navegável de trabalhos publicados nesta seção.',
+      'plugins.generic.browseBySection.navMenuItem' => 'Seção: {$name}',
+      'plugins.generic.browseBySection.browseByDescriptionLabel' => 'Descrição da seção de acervo',
+      'plugins.generic.browseBySection.browseByPerPageDescription' => 'Quantos itens devem ser exibidos por página na sua seção de acervo.',
+      'plugins.generic.browseBySection.browseByPerPageLabel' => 'Itens por página',
+      'plugins.generic.browseBySection.browseByPathDescription' => 'Personalize o caminho da URL em seu site onde os leitores podem navegar nesta seção de acervo. Ele pode conter apenas letras e números. Use hifens (-) em vez de espaços. Exemplo: book-reviews.',
+      'plugins.generic.browseBySection.browseByPathLabel' => 'Caminho da URL da seção',
+      'plugins.generic.browseBySection.enableBrowsing' => 'Ativar um acervo de todas as submissões publicadas nesta seção.',
+      'plugins.generic.browseBySection.browsingLabel' => 'Navegação por seção',
+      'plugins.generic.browseBySection.emptySection' => 'Nada foi publicado nesta seção ainda.',
+      'plugins.generic.browseBySection.description' => 'Permite que os visitantes naveguem pelo conteúdo da revista por seção.',
+      'plugins.generic.browseBySection.name' => 'Navegar por seção',
+      'plugins.generic.browseBySection.orderBy' => 'Ordenar por',
+    ),
+  ),
+);

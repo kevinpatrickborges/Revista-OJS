@@ -1,0 +1,5 @@
+[2025-04-01 10:27:53] http://localhost/ojs-system
+[2025-04-01 10:27:53] [Aviso] Iniciada tarefa agendada.
+[2025-04-01 10:27:54] [Aviso] O arquivo C:\Journals/usageStats/processing/usage_events_20250331.log foi movido para a pasta de expedição.
+[2025-04-01 10:27:54] [Aviso] A tarefa em segundo plano que processará o arquivo de log {$file} e armazenará os dados estatísticos foi despachada.
+[2025-04-01 10:27:54] [Aviso] Tarefa agendada parou.

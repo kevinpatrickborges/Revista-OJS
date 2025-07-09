@@ -1,0 +1,25 @@
+<?php $exp = 1779806707; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n != 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.customLocale.name' => 'Módulo de configuración regional personalizada',
+      'plugins.generic.customLocale.description' => 'Este módulo permite la personalización del texto predeterminado de la interfaz de usuario/a utilizado por OJS y OMP.',
+      'plugins.generic.customLocale.saveAndContinue' => 'Guardar y continuar',
+      'plugins.generic.customLocale.noneCreated' => 'No se encontraron archivos.',
+      'plugins.generic.customLocale.localeKey.description' => 'Introduzca la clave de la configuración regional completa que desee buscar.',
+      'plugins.generic.customLocale.customize' => 'Personalizar',
+      'plugins.generic.customLocale.printChanges' => 'Descargue un archivo con el listado de todas las personalizaciones que ha realizado.',
+      'plugins.generic.customLocale.file.edit' => 'Editando {$filename}',
+      'plugins.generic.customLocale.file.reference' => 'Texto predeterminado',
+      'plugins.generic.customLocale.file.custom' => 'Texto personalizado',
+      'plugins.generic.customLocale.customLocale' => 'Configuraciones regionales',
+      'plugins.generic.customLocale.customLocaleFiles' => 'Archivos de configuración regionales',
+      'plugins.generic.customLocale.searchDescription' => 'Introduzca aquí una clave de configuración regional completa. Las claves encontradas están resaltadas.',
+      'plugins.generic.customLocale.searchResultsCount' => 'Mostrando {{ currentLocaleKeys.length }} de {{ filteredKeysList.length }} resultados para "{{ phraseSearched }}".',
+      'plugins.generic.customLocale.file.editHeader' => 'Personalizar las claves de configuración regional',
+    ),
+  ),
+);

@@ -1,0 +1,16 @@
+<?php $exp = 1777559251; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.reviewReminder.displayName' => 'Review Reminder',
+      'plugins.generic.reviewReminder.description' => 'Sends a review reminder email to assigned reviewers.',
+      'plugins.generic.reviewReminder.ics.description' => 'Deadline for review {$submissionTitle}: {$submissionReviewUrl}',
+      'plugins.generic.reviewReminder.ics.description.urlNotAvailable' => 'URL not available',
+      'plugins.generic.reviewReminder.ics.summary' => '{$journalName} - Schedule Your Review',
+      'plugins.generic.reviewReminder.email.body' => 'You can use the attached reminder to add to the calendar of your choice.',
+    ),
+  ),
+);

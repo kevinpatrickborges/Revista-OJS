@@ -1,0 +1,15 @@
+<?php $exp = 1776370261; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.customHeader.footerContent' => 'Conteúdo do Rodapé',
+      'plugins.generic.customHeader.content' => 'Conteúdo do Cabeçalho',
+      'plugins.generic.customHeader.manager.settings.description' => 'Com este plugin habilitado, cabeçalhos personalizados podem ser adicionados para o site. Isso pode ser usado, por exemplo, para adicionar Javascript personalizado.',
+      'plugins.generic.customHeader.description' => 'Adicione cabeçalhos arbitrários ao site.',
+      'plugins.generic.customHeader.displayName' => 'Plugin de Cabeçalho Personalizado',
+    ),
+  ),
+);

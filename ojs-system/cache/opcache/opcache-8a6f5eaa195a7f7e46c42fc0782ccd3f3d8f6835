@@ -1,0 +1,35 @@
+<?php $exp = 1779803539; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.themes.healthSciences.name' => 'Health Sciences Theme',
+      'plugins.themes.healthSciences.description' => 'An OJS theme designed with a focus on text legibility and content clarity as well as an understated palette of light greys and white.',
+      'plugins.themes.healthSciences.option.colour.label' => 'Primary Colour',
+      'plugins.themes.healthSciences.option.colour.description' => 'Select the primary colour for your journal brand.',
+      'plugins.themes.healthSciences.nav.toggle' => 'Toggle Navigation',
+      'plugins.themes.healthSciences.language.toggle' => 'Change the language. The current language is:',
+      'plugins.themes.healthSciences.currentIssuePublished' => 'Published {$date}',
+      'plugins.themes.healthSciences.issueDescription' => 'Issue Description',
+      'plugins.themes.healthSciences.issuePubId' => '{$pubIdType}: {$pubId}',
+      'plugins.themes.healthSciences.more' => '{$text}…',
+      'plugins.themes.healthSciences.article.authorBio' => 'Bio',
+      'plugins.themes.healthSciences.article.supplementaryFiles' => 'Supplementary Files',
+      'plugins.themes.healthSciences.register.haveAccount' => 'Already have an account?',
+      'plugins.themes.healthSciences.register.loginHere' => 'Login here',
+      'plugins.themes.healthSciences.register.noAccount' => 'No account?',
+      'plugins.themes.healthSciences.register.registerHere' => 'Register here',
+      'plugins.themes.healthSciences.search.resultsFor' => 'Search Results for <em>{$query}</em>',
+      'plugins.themes.healthSciences.search.params' => 'Search Parameters',
+      'plugins.themes.healthSciences.option.displayStats.label' => 'Usage statistics display options',
+      'plugins.themes.healthSciences.option.displayStats.none' => 'Do not display submission usage statistics chart for reader.',
+      'plugins.themes.healthSciences.option.displayStats.bar' => 'Use bar type of the chart for usage statistics display.',
+      'plugins.themes.healthSciences.option.displayStats.line' => 'Use line type of the chart for usage statistics display.',
+      'plugins.themes.healthSciences.displayStats.monthInitials' => 'Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec',
+      'plugins.themes.healthSciences.displayStats.downloads' => 'Downloads',
+      'plugins.themes.healthSciences.displayStats.noStats' => 'Download data is not yet available.',
+    ),
+  ),
+);

@@ -1,0 +1,33 @@
+<?php $exp = 1777559251; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.themes.pragma.name' => 'Pragma Theme',
+      'plugins.themes.pragma.description' => 'A minimalist OJS theme inspired by early periodicals’ tables of contents featuring a bold use of a monochromatic colour palette.',
+      'plugins.themes.pragma.more-info' => 'More info',
+      'plugins.themes.pragma.issues.recent' => 'Recently published issues',
+      'plugins.themes.pragma.issue.published' => 'Published',
+      'plugins.themes.pragma.issue.description' => 'Issue description',
+      'plugins.themes.pragma.registration.consent' => 'Consent',
+      'plugins.themes.pragma.mainMenu' => 'Main menu',
+      'plugins.themes.pragma.language.toggle' => 'Change the language. The current language is:',
+      'plugins.themes.pragma.adminMenu' => 'Admin menu',
+      'plugins.themes.pragma.issue.fullIssueLink' => 'See the full issue',
+      'plugins.themes.pragma.article.biography' => 'Bio',
+      'plugins.themes.pragma.article.figure' => 'Cover image',
+      'plugins.themes.pragma.authors.browse' => 'Browse by Author',
+      'plugins.themes.pragma.author.details' => 'Author Details',
+      'plugins.themes.pragma.search.resultsFor' => 'Search Results for <em>{$query}</em>',
+      'plugins.themes.pragma.option.displayStats.label' => 'Usage statistics display options',
+      'plugins.themes.pragma.option.displayStats.none' => 'Do not display submission usage statistics chart for reader.',
+      'plugins.themes.pragma.option.displayStats.bar' => 'Use bar type of the chart for usage statistics display.',
+      'plugins.themes.pragma.option.displayStats.line' => 'Use line type of the chart for usage statistics display.',
+      'plugins.themes.pragma.displayStats.monthInitials' => 'Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec',
+      'plugins.themes.pragma.displayStats.downloads' => 'Downloads',
+      'plugins.themes.pragma.displayStats.noStats' => 'Download data is not yet available.',
+    ),
+  ),
+);

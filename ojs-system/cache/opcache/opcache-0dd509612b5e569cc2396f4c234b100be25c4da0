@@ -1,0 +1,22 @@
+<?php $exp = 1776370262; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.reports.counter.description' => 'O plugin COUNTER permite relatar a respeito das atividades do periódico usando o <a href="http://www.projectcounter.org/">padrão COUNTER</a>. Estes relatórios não torna o periódico compatível com o COUNTER. Para oferecer compatibilidade com o COUNTER, veja os requisitos do site do Projeto COUNTER.',
+      'plugins.reports.counter' => 'Relatórios COUNTER',
+      'plugins.reports.counter.release' => 'Versão do COUNTER',
+      'plugins.reports.counter.error.badParameters' => 'Parâmetros de relatório inválidos.',
+      'plugins.reports.counter.error.badRequest' => 'Solicitação de relatório inválida.',
+      'plugins.reports.counter.error.noResults' => 'Sem resultados para este relatório.',
+      'plugins.reports.counter.error.noXML' => 'Os resultados não puderam ser formatados em XML.',
+      'plugins.reports.counter.1a.name' => 'Relatório COUNTER JR1 (R3)',
+      'plugins.reports.counter.1a.description' => 'Relatório de periódico COUNTER 1 (R3): solicitações de texto completo de artigos por mês e periódico',
+      'plugins.reports.counter.allCustomers' => 'Todos os consumidores',
+      'plugins.reports.counter.ar1.title' => 'Relatório de artigo 1',
+      'plugins.reports.counter.jr1.title' => 'Relatório de revista 1',
+    ),
+  ),
+);

@@ -1,0 +1,14 @@
+<?php $exp = 1778636322; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.themes.defaultManuscript.name' => 'Manuscript (Tema filho do tema Default)',
+      'plugins.themes.defaultManuscript.description' => 'Um tema limpo, simples, com um layout em caixa que imita um documento em papel.',
+      'plugins.themes.defaultManuscript.option.typography.montserrat_notoSerif' => 'Montserrat/Noto Serif',
+      'plugins.themes.defaultManuscript.option.accentColour.label' => 'Cores de destaque',
+    ),
+  ),
+);

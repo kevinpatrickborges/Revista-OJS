@@ -1,0 +1,25 @@
+<?php $exp = 1779376548; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.customLocale.description' => 'Este plugin permite a personalização da interface padrão do usuário usado pelo OJS e OMP.',
+      'plugins.generic.customLocale.searchResultsCount' => 'Exibindo {{ currentLocaleKeys.length }} de {{ filteredKeysList.length }} resultados para "{{ phraseSearched }}".',
+      'plugins.generic.customLocale.searchDescription' => 'Informe aqui uma chave completa de tradução. Chaves encontradas estão em destaque.',
+      'plugins.generic.customLocale.customLocaleFiles' => 'Arquivos de tradução',
+      'plugins.generic.customLocale.customLocale' => 'Traduções',
+      'plugins.generic.customLocale.file.custom' => 'Texto personalizado',
+      'plugins.generic.customLocale.file.reference' => 'Texto padrão',
+      'plugins.generic.customLocale.file.edit' => 'Editando {$filename}',
+      'plugins.generic.customLocale.file.editHeader' => 'Personalizar chaves de tradução',
+      'plugins.generic.customLocale.printChanges' => 'Baixar o arquivo que lista as personalizações realizadas.',
+      'plugins.generic.customLocale.customize' => 'Personalizar',
+      'plugins.generic.customLocale.noneCreated' => 'Nenhum idioma encontrado.',
+      'plugins.generic.customLocale.saveAndContinue' => 'Salvar e continuar',
+      'plugins.generic.customLocale.name' => 'Tradução personalizada',
+      'plugins.generic.customLocale.file.onlyModified' => 'Apenas modificado',
+    ),
+  ),
+);

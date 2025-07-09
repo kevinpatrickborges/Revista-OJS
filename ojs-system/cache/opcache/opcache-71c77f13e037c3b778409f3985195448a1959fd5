@@ -1,0 +1,30 @@
+<?php $exp = 1777559251; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.textEditorExtras.displayName' => 'Text Editor Extras',
+      'plugins.generic.textEditorExtras.description' => 'Add controls to the rich text editor to upload images, manipulate the HTML code, and add tables.',
+      'plugins.generic.textEditorExtras.setting.emailTemplateBody' => 'Email Template Body',
+      'plugins.generic.textEditorExtras.setting.images' => 'Images',
+      'plugins.generic.textEditorExtras.setting.code' => 'Code',
+      'plugins.generic.textEditorExtras.setting.tables' => 'Tables',
+      'plugins.generic.textEditorExtras.settings.description' => '
+		<p>Enable the extra controls that you would like to appear in the TinyMCE editor for each field listed below.</p>
+		<p>In some cases, adding images, tables or other advanced formatting may cause distribution problems. This is especially
+			so in two cases. Advanced formatting in the Email Template Body may not be compatible with all email clients and can
+			increase the risk that your emails will be blocked. Advanced formatting in an Abstract may not be compatible with
+			indexing services such as Google Scholar, Crossref and the PKP Index.</p>
+		<p>Tables present two additional problems. First, wide tables may cause layout problems on small screens. You should test
+			any tables you add to your site on a mobile device. Second, most tables require row and column headings in order to be
+			compliant with accessibility requirements in many jurisdictions. The table controls that can be enabled here do not
+			support proper HTML markup that meets these requirements. You may need to manually adjust the HTML markup of your tables
+			according to the <a href="https://www.w3.org/TR/WCAG20-TECHS/H51.html">WCAG 2.0 guidelines</a>.</p>
+		<p>We encourage you to only add advanced formatting options when it is necessary and to carefully test the results
+			wherever your published material is aggregated on other services.</p>',
+      'plugins.generic.textEditorExtras.setting.announcements.descriptionShort' => 'Announcements Short Description',
+    ),
+  ),
+);

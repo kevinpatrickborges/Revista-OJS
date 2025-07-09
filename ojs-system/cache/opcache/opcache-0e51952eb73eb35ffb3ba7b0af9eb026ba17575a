@@ -1,0 +1,20 @@
+<?php $exp = 1779540917; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.paymethod.manual.displayName' => 'Controle de pagamento manual',
+      'plugins.paymethod.manual.description' => 'O responsável registrará o recebimento do pagamento pelo usuário.',
+      'plugins.paymethod.manual' => 'Registro de pagamento',
+      'plugins.paymethod.manual.settings' => 'Configurações para controle de pagamento',
+      'plugins.paymethod.manual.sendNotificationOfPayment' => 'Enviar notificação de pagamento',
+      'plugins.paymethod.manual.paymentNotification' => 'Notificação de pagamento',
+      'plugins.paymethod.manual.notificationSent' => 'Notificação de pagamento enviada',
+      'plugins.paymethod.manual.purchase.title' => 'Título',
+      'plugins.paymethod.manual.purchase.fee' => 'Taxa',
+      'plugins.paymethod.manual.manualPaymentNotify.name' => 'Notificação de Pagamento Manual',
+    ),
+  ),
+);

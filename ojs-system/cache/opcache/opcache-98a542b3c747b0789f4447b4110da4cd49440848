@@ -1,0 +1,36 @@
+<?php $exp = 1779376548; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.themes.classic.options.journalSummary.enable' => 'Mostrar na página inicial da revista.',
+      'plugins.themes.classic.options.journalSummary.disable' => 'Não mostrar na página inicial da revista.',
+      'plugins.themes.classic.volume-abbr' => 'Vol.',
+      'plugins.themes.classic.number-abbr' => 'N.',
+      'plugins.themes.classic.pagination' => 'Paginação',
+      'plugins.themes.classic.more-info' => 'mais informações',
+      'plugins.themes.classic.biography' => 'Biografia',
+      'plugins.themes.classic.close' => 'Fechar',
+      'plugins.themes.classic.tableOfContents' => 'Índice',
+      'plugins.themes.classic.fullIssue' => 'Edição completa',
+      'plugins.themes.classic.less' => 'Menos',
+      'plugins.themes.classic.more' => 'Mais',
+      'plugins.themes.classic.issueDescription' => 'Descrição da edição',
+      'plugins.themes.classic.menu' => 'Menu',
+      'plugins.themes.classic.option.primaryColor.description' => 'Mudar a cor principal do tema',
+      'plugins.themes.classic.option.primaryColor.label' => 'Cor principal',
+      'plugins.themes.classic.description' => 'Um tema para o OJS que brinca com contrastes de cores e fontes baseados no design de clássicos da literatura e apresenta um cabeçalho preto fortemente contrastante com um marcado rodapé colorido.',
+      'plugins.themes.classic.name' => 'Tema Clássico',
+      'plugins.themes.classic.language.toggle' => 'Alterar o idioma. O idioma atual é:',
+      'plugins.themes.classic.option.displayStats.label' => 'Opções de visualização de estatísticas de uso',
+      'plugins.themes.classic.option.displayStats.none' => 'Não exibir gráfico de estatísticas de uso de submissão para o leitor.',
+      'plugins.themes.classic.option.displayStats.bar' => 'Use o tipo de barra do gráfico para exibição de estatísticas de uso.',
+      'plugins.themes.classic.option.displayStats.line' => 'Use o tipo de linha do gráfico para exibição de estatísticas de uso.',
+      'plugins.themes.classic.displayStats.monthInitials' => 'Jan Fev Mar Abr Mai Jun Jul Ago Set Out Nov Dez',
+      'plugins.themes.classic.displayStats.downloads' => 'Downloads',
+      'plugins.themes.classic.displayStats.noStats' => 'Os dados de download ainda não estão disponíveis.',
+    ),
+  ),
+);

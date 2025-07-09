@@ -1,0 +1,22 @@
+<?php $exp = 1779540917; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n > 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.importexport.quickSubmit.displayName' => 'Submissão rápida',
+      'plugins.importexport.quickSubmit.description' => 'Plugin de submissão em 1 passo',
+      'plugins.importexport.quickSubmit.success' => 'Artigo incluído',
+      'plugins.importexport.quickSubmit.successDescription' => 'Artigo criado com sucesso.',
+      'plugins.importexport.quickSubmit.successReturn' => 'Voltar à submissão rápida.',
+      'plugins.importexport.quickSubmit.selectIssue' => 'É necessário selecionar uma edição',
+      'plugins.importexport.quickSubmit.goToSubmission' => 'Ir para Submissão',
+      'plugins.importexport.quickSubmit.unpublished' => 'Não publicado',
+      'plugins.importexport.quickSubmit.published' => 'Publicado',
+      'plugins.importexport.quickSubmit.cancelDescription' => 'A submissão foi cancelada.',
+      'plugins.importexport.quickSubmit.cancel' => 'Submissão cancelada',
+      'plugins.importexport.quickSubmit.descriptionLong' => 'Esse plugin lhe permite inserir rapidamente submissões completas para o estágio de produção ou diretamente em uma edição.',
+    ),
+  ),
+);

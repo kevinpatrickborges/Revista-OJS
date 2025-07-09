@@ -1,0 +1,33 @@
+<?php $exp = 1777559264; $val = array (
+  'domain' => NULL,
+  'plural-forms' => 'nplurals=2; plural=n != 1;',
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.themes.pragma.name' => 'Tema Pragma',
+      'plugins.themes.pragma.description' => 'Un tema minimalista para OJS inspirado en los sumarios de las revistas antiguas que hace un uso atrevido de una paleta de colores monocromática.',
+      'plugins.themes.pragma.more-info' => 'Más información',
+      'plugins.themes.pragma.issues.recent' => 'Números publicados recientemente',
+      'plugins.themes.pragma.issue.published' => 'Publicado',
+      'plugins.themes.pragma.issue.description' => 'Descripción del número',
+      'plugins.themes.pragma.registration.consent' => 'Autorización',
+      'plugins.themes.pragma.mainMenu' => 'Menú principal',
+      'plugins.themes.pragma.language.toggle' => 'Cambiar el idioma. El idioma actual es:',
+      'plugins.themes.pragma.adminMenu' => 'Menú de administración',
+      'plugins.themes.pragma.issue.fullIssueLink' => 'Ver el número completo',
+      'plugins.themes.pragma.article.biography' => 'Biografía',
+      'plugins.themes.pragma.article.figure' => 'Imagen de portada',
+      'plugins.themes.pragma.authors.browse' => 'Navegar por autores/as',
+      'plugins.themes.pragma.author.details' => 'Información del autor/a',
+      'plugins.themes.pragma.search.resultsFor' => 'Buscar resultados por <em>{$query}</em>',
+      'plugins.themes.pragma.option.displayStats.label' => 'Opciones de visualización de las estadísticas de uso',
+      'plugins.themes.pragma.option.displayStats.none' => 'No mostrar el gráfico de estadísticas de envíos a los lectores/as.',
+      'plugins.themes.pragma.option.displayStats.bar' => 'Usar un gráfico de barras para la visualización de las estadísticas de uso.',
+      'plugins.themes.pragma.option.displayStats.line' => 'Usar un gráfico de líneas para la visualización de las estadísticas de uso.',
+      'plugins.themes.pragma.displayStats.monthInitials' => 'Ene Feb Mar Abr May Jun Jul Ago Sep Oct Nov Dic',
+      'plugins.themes.pragma.displayStats.downloads' => 'Descargas',
+      'plugins.themes.pragma.displayStats.noStats' => 'Los datos de descarga todavía no están disponibles.',
+    ),
+  ),
+);

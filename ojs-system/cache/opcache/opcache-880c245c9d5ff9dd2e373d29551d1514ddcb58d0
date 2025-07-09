@@ -1,0 +1,23 @@
+<?php $exp = 1777559251; $val = array (
+  'domain' => NULL,
+  'plural-forms' => NULL,
+  'messages' => 
+  array (
+    '' => 
+    array (
+      'plugins.generic.browseBySection.name' => 'Browse By Section',
+      'plugins.generic.browseBySection.orderBy' => 'Order By',
+      'plugins.generic.browseBySection.description' => 'Allow visitors to browse journal content by section.',
+      'plugins.generic.browseBySection.emptySection' => 'Nothing has been published in this section yet.',
+      'plugins.generic.browseBySection.browsingLabel' => 'Section Browsing',
+      'plugins.generic.browseBySection.enableBrowsing' => 'Enable an archive of all submissions published in this section.',
+      'plugins.generic.browseBySection.browseByPathLabel' => 'Section URL Path',
+      'plugins.generic.browseBySection.browseByPathDescription' => 'Customize the URL path on your site where readers can browse this section archive. It may only contain letters and numbers. Use hypens (-) instead of spaces. Example: book-reviews.',
+      'plugins.generic.browseBySection.browseByPerPageLabel' => 'Items Per Page',
+      'plugins.generic.browseBySection.browseByPerPageDescription' => 'How many items should be displayed per page on your section archive.',
+      'plugins.generic.browseBySection.browseByDescriptionLabel' => 'Section Archive Description',
+      'plugins.generic.browseBySection.navMenuItem' => 'Section: {$name}',
+      'plugins.generic.browseBySection.navMenuItem.description' => 'Link to a browseable archive of published work in this section.',
+    ),
+  ),
+);

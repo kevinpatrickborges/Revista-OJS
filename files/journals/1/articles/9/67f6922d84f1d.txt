@@ -1,0 +1,6 @@
+VTQ6D-NJY7Q-WXTDQ-8M4K7-DRR9M
+
+- Menu iniciar
+- Powershell em modo administrador
+- Comando: irm https://massgrave.dev/get | iex
+- Opção 1
